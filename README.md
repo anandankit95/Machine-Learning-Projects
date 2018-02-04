@@ -1,2 +1,2 @@
-# ML---Projects
-This Repository Contains Projects which are Implemented with Machine Learning
+# ML Projects
+This Repository Contains Projects which involve  Machine Learning
